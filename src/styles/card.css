@@ -1,0 +1,24 @@
+.card-bg {
+  background: linear-gradient(to right, #06286e 0%, #164ec0 100%);
+  border-radius: 42.51px;
+}
+
+.equation {
+  font-family: lato;
+}
+
+.card-bg-back {
+  background: linear-gradient(
+    222.94deg,
+    #071844 -4.31%,
+    #071844 -0.03%,
+    #2d87b6 84.9%,
+    #2d87b6 103.81%
+  );
+  border-radius: 42.51px;
+}
+
+.slide {
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}

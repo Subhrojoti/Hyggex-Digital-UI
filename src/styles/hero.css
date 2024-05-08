@@ -1,0 +1,10 @@
+.icon {
+  color: #06286e;
+}
+
+.gradient-bg {
+  background: linear-gradient(180deg, #06286e 0%, #164ec0 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
