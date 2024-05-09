@@ -19,3 +19,42 @@ To install the necessary dependencies, follow these steps:
    git clone https://github.com/your-username/ui-assignment.git
 
    git clone https://github.com/your-username/ui-assignment.git
+
+   ## Running the project
+
+To run the project locally, you can use the following npm scripts:
+
+- **Development mode**: Start the development server with hot module replacement:
+
+  ```bash
+  npm run dev
+
+## Build
+
+To build the project for production, you can use the following npm script:
+
+```bash
+npm run build
+
+## Dependencies
+
+This project uses the following dependencies:
+
+- React
+- React DOM
+- React Card Flip
+- React Icons
+
+## Dev Dependencies
+
+- @types/react
+- @types/react-dom
+- @vitejs/plugin-react
+- autoprefixer
+- eslint
+- eslint-plugin-react
+- eslint-plugin-react-hooks
+- eslint-plugin-react-refresh
+- postcss
+- tailwindcss
+- vite
