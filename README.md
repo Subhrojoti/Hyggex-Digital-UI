@@ -33,7 +33,6 @@ To run the project locally, you can use the following npm scripts:
 
 To build the project for production, you can use the following npm script:
 
-``bash
 npm run build
 
 
