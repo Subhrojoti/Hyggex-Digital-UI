@@ -33,8 +33,9 @@ To run the project locally, you can use the following npm scripts:
 
 To build the project for production, you can use the following npm script:
 
-```bash
+``bash
 npm run build
+
 
 ## Dependencies
 
@@ -44,6 +45,7 @@ This project uses the following dependencies:
 - React DOM
 - React Card Flip
 - React Icons
+
 
 ## Dev Dependencies
 
